@@ -1,0 +1,17 @@
+[
+    {
+      "Name": "Build Creative App using Azure AI and Prompty",
+      "Language": "English",
+      "BaseURL": "https://github.com/CloudLabsAI-Azure/GitHub-Copilot-Hack-Challenges",
+      "Files": [
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/GitHub-Copilot-Hack-Challenges/refs/heads/main/memorygame/getting-started.md?token=GHSAT0AAAAAACWAB4G7XJ6YYCISTTLSBO56ZZU3GVA",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/GitHub-Copilot-Hack-Challenges/refs/heads/main/memorygame/Challenge-guide.md?token=GHSAT0AAAAAACWAB4G6PRS7LJDSYVNSOIF4ZZU3HCQ",
+          "Order": 2
+        }
+      ]
+    }
+  ]
